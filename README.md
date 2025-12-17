@@ -4,7 +4,6 @@
 
 DevTasker is a Jira-style task and project management platform focused on agile teams. It features Kanban boards with drag-and-drop functionality, role-based access control, real-time updates via SignalR, and a clean enterprise UI.
 
-![DevTasker Screenshot](./docs/screenshot.png)
 
 ## 🚀 Features
 
